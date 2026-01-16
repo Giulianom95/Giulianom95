@@ -2,10 +2,12 @@
   LinkedIn
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-    width="18"
+    width="24"
     style="vertical-align: middle;"
   />
 </a>
+
+  
 
 
 ##
